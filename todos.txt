@@ -4,3 +4,5 @@ clean the bed
 fix the drawer
 visit the museum
 turn off the light
+master python
+study
